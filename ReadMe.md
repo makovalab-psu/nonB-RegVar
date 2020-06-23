@@ -1,4 +1,4 @@
-This repository contains the computational scripts used in the manuscript "Non-B DNA: A major contributor to small- and large-scale variation in nucleotide substitution frequencies across the genome" by Guiblet, Cremona, et al.
+This repository contains the computational scripts used in the manuscript "**Non-B DNA: A major contributor to small- and large-scale variation in nucleotide substitution frequencies across the genome**" by Guiblet, Cremona, et al.
 
 - Supplementary Code 1 contains the scripts used for the large-scale analysis.
 
